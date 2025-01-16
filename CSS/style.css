@@ -5,3 +5,9 @@ body {
     padding: 20px;
     background-image: url(../Media/abstract-marble-texture-black-white-grey-background-handmade-technique.jpg);
 }
+.logo {
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    width: 150px;
+}
