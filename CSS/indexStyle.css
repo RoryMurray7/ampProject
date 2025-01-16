@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+}
+.navigation-buttons {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+
+    background-color: white;
+    padding: 80px;
+    border-radius: 18px;
+    box-shadow: 0 16px 32px rgba(0,0,0,0.3);
+}
+button {
+    background-color: #0e0074;
+    color: white;
+    width: 600px;
+    height: 80px;
+    border: none;
+    border-radius: 12px;
+    font-size: large;
+}
+button:hover {
+    background-color: #001a36;
