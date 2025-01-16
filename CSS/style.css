@@ -3,12 +3,12 @@ body {
     max-width: 800px;
     margin: 40px auto;
     padding: 20px;
-    background-color: #f5f5f5;
+    background-color: #7f7f7f;
 }
 .upload-container {
     background-color: white;
     padding: 30px;
-    border-radius: 8px;
+    border-radius: 18px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 .upload-form {
@@ -26,7 +26,7 @@ body {
     color: white;
     padding: 12px 20px;
     border: none;
-    border-radius: 4px;
+    border-radius: 12px;
     cursor: pointer;
 }
 .submit-btn:hover {
